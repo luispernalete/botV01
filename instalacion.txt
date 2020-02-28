@@ -1,0 +1,5 @@
+npm install --save request request-promise cheerio puppeteer
+
+npm install --save node-html-parser
+
+npm i axios axios-cookiejar-support
